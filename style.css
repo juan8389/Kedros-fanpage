@@ -1,0 +1,89 @@
+html{
+    background-image: url(cedros.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.intro{
+    background-color: rgb(203, 216, 216);
+    width: 700px;
+    border: 15px solid rgb(163, 194, 163);
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.intro{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);}
+
+#Kedros-logo {display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+#bio-info{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}   
+
+a {
+    font-size: 27px;
+    color: white;
+    text-align: fixed;
+}
+a {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);}
+
+h3{
+    text-decoration: underline;
+}
+.members{
+    background-color: rgb(203, 216, 216);
+    background-position: center;
+    width: 400px;
+    height: 390px;
+    border: 15px solid rgb(163, 194, 163);
+    text-align: center;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.members{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 160%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);}
+
+.song-info{
+    font-size:large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    letter-spacing: 2px;
+}
+.song-info{padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 250%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);}
